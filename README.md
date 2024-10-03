@@ -1,5 +1,5 @@
 # Custom-DSP-AudioKit
-This is an example project for creating custom DSP effects using AudioKit. There are currently two examples: Boost and LoFi. 
+This is an example project for creating custom DSP effects using AudioKit. There are currently two examples: Boost and LoFi. Watch the video and use this as a starting point for creating your own effects,
 
 (Click the image to watch "How to Make Custom DSP Effects with AudioKit")
 
